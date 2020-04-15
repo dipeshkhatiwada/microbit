@@ -1,2 +1,2 @@
 # microbit
-microbit controller conde in python
+microbit controller code in python
